@@ -65,7 +65,7 @@
                      <p class="iq-title-desc">Upgrade your brand image with Video Conferencing for your customers</p>
                   </div>
                   <div class="iq-btn-container mt-4">
-                     <a class="iq-button iq-btn-medium iq-btn-round iq-btn-flat d-inline" href="https://voicetech.co.in/inquiry.php">Buy Video Conferencing </a>
+                     <a class="iq-button iq-btn-medium iq-btn-round iq-btn-flat d-inline" href="http://voicetech.co.in/inquiry.php">Buy Video Conferencing </a>
                   </div>
                </div>
                <div class="col-lg-6">
@@ -297,7 +297,7 @@
                      <h2>Free Trial</h2>
                      <h5>Sign up to upgrade your customer calling experience.</h5>
                      <div class="iq-btn-container mt-4">
-                     <a class="iq-button iq-btn-medium iq-btn-round iq-btn-flat d-inline" href="https://voicetech.co.in/inquiry.php">GET STARTED NOW</a>
+                     <a class="iq-button iq-btn-medium iq-btn-round iq-btn-flat d-inline" href="http://voicetech.co.in/inquiry.php">GET STARTED NOW</a>
                      </div>
                    </div>
                 </div>

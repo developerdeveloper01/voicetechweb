@@ -8,7 +8,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Qloud - Cloud Computing, Apps & Server Responsive HTML5 Template</title>
+    <title>VoiceTech</title>
     <!-- Favicon -->
     <link rel="shortcut icon" href="images/favicon.ico" />
     <!-- Bootstrap CSS -->
@@ -365,7 +365,7 @@
         $("#signup").submit(function(event) {
                 event.preventDefault();
 
-                var url = "http://103.8.43.13/api/api/user/signup";
+                var url = "http://3.111.139.178/v1/api/user/signup";
                 var topost = $.post(url, {
                     firstname: $("#firstname").val(),
                     lastname: $("#lastname").val(),
@@ -389,7 +389,7 @@
                     console.log("done submit");
                     console.log(data);
                     setTimeout(function() {
-                        window.location.href = "http://127.0.0.1:5500/index-2.html";
+                        window.location.href = "http://user.voicetech.co.in/#/login";
                     }, 3000);
                 });
 

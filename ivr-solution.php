@@ -71,7 +71,7 @@
                      <p class="iq-title-desc">Let your customers decide who they would like to speak towithout any manual intervention. It advances the company by receiving calls on unlimited extensions anywhere in the world at any time. Multilevel IVR has a personalized IVR that greets your callers regionally and route their calls to the relevant team. It helps to maintain a professionalized and customized menu according to your business profile without any third-party intervention. </p>
                   </div>
                   <div class="iq-btn-container mt-4">
-                     <a class="iq-button iq-btn-medium iq-btn-round iq-btn-flat d-inline" href="https://voicetech.co.in/pricing.php">BUY MULTILEVEL IVR</a>
+                     <a class="iq-button iq-btn-medium iq-btn-round iq-btn-flat d-inline" href="http://voicetech.co.in/pricing.php">BUY MULTILEVEL IVR</a>
                   </div>
                </div>
                <div class="col-lg-6">
@@ -136,7 +136,7 @@
               </div>
               <div class="col-lg-6 col-sm-12 rside">
                  <div class="iq-btn-container mt-4">
-                     <a class="iq-button iq-btn-medium iq-btn-round iq-btn-flat d-inline" href="https://voicetech.co.in/inquiry.php">START TRIAL</a>
+                     <a class="iq-button iq-btn-medium iq-btn-round iq-btn-flat d-inline" href="http://voicetech.co.in/inquiry.php">START TRIAL</a>
                   </div>
               </div>
             </div>
@@ -375,7 +375,7 @@
                        <div class="st-box">
                         <img src="images/icon-box/i-6.png">
                         <h5><a href="">CRM integration</a></h5>
-                        <p>Integrate popular CRM services or custom software with MyOperator call center for smoother workflow.</p>
+                        <p>Integrate popular CRM services or custom software with VoiceTech call center for smoother workflow.</p>
                        </div>
                     </div>
                      <div class="col-lg-4 col-md-3 col-sm-6 col-xs-12">
@@ -615,7 +615,7 @@
                      <h2>Free Trial</h2>
                      <h5>Sign up to upgrade your customer calling experience.</h5>
                      <div class="iq-btn-container mt-4">
-                     <a class="iq-button iq-btn-medium iq-btn-round iq-btn-flat d-inline" href="https://voicetech.co.in/inquiry.php">GET STARTED NOW</a>
+                     <a class="iq-button iq-btn-medium iq-btn-round iq-btn-flat d-inline" href="http://voicetech.co.in/inquiry.php">GET STARTED NOW</a>
                      </div>
                    </div>
                 </div>
@@ -667,7 +667,7 @@
 
                             <div class="iq-accordion-details">
 
-                                <p class="iq-content-text"> You can buy a toll free number from VoiceTech online. To buy a toll free number, you can call MyOperator customer line on +91 8826114009 and connect with one of our executives. They will help you select an 1800-532-5700 number of your choice and will book it for you. </p>
+                                <p class="iq-content-text"> You can buy a toll free number from VoiceTech online. To buy a toll free number, you can call VoiceTech customer line on +91 8826114009 and connect with one of our executives. They will help you select an 1800-532-5700 number of your choice and will book it for you. </p>
 
                             </div>
                         </div>

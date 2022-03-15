@@ -5,7 +5,7 @@
       <!-- Required meta tags -->
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-      <title>Qloud - Cloud Computing, Apps & Server Responsive HTML5 Template</title>
+      <title>VoiceTech</title>
       <!-- Favicon -->
       <link rel="shortcut icon" href="images/favicon.ico" />
       <!-- Bootstrap CSS -->
@@ -69,7 +69,7 @@
                      <p class="iq-title-desc">Empower your sales and support teams to work remotely with MyOperator Cloud Telephonic Solution solutions integrated with powerful cloud telephony features. </p>
                   </div>
                   <div class="iq-btn-container mt-4">
-                     <a class="iq-button iq-btn-medium iq-btn-round iq-btn-flat d-inline" href="https://voicetech.co.in/inquiry.php">BUY CLOUD TELEPHONIC SOLUTION</a>
+                     <a class="iq-button iq-btn-medium iq-btn-round iq-btn-flat d-inline" href="http://voicetech.co.in/inquiry.php">BUY CLOUD TELEPHONIC SOLUTION</a>
                   </div>
                </div>
                <div class="col-lg-6">
@@ -552,7 +552,7 @@
                      <h2>Free Trial</h2>
                      <h5>Sign up to upgrade your customer calling experience.</h5>
                      <div class="iq-btn-container mt-4">
-                     <a class="iq-button iq-btn-medium iq-btn-round iq-btn-flat d-inline" href="https://voicetech.co.in/inquiry.php">GET STARTED NOW</a>
+                     <a class="iq-button iq-btn-medium iq-btn-round iq-btn-flat d-inline" href="http://voicetech.co.in/inquiry.php">GET STARTED NOW</a>
                      </div>
                    </div>
                 </div>

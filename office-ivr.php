@@ -65,7 +65,7 @@
                      <p class="iq-title-desc">Full-fledged solution to enhance your customer calling experience </p>
                   </div>
                   <div class="iq-btn-container mt-4">
-                     <a class="iq-button iq-btn-medium iq-btn-round iq-btn-flat d-inline" href="https://voicetech.co.in/inquiry.php">BUY Click to Call System</a>
+                     <a class="iq-button iq-btn-medium iq-btn-round iq-btn-flat d-inline" href="http://voicetech.co.in/inquiry.php">BUY Click to Call System</a>
                   </div>
                </div>
                <div class="col-lg-6">

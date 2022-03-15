@@ -154,8 +154,8 @@
                         </div>
                         <div class="sub-main">
                             <ul>
-                                <li class="d-inline"><a href="login2.php" class="login iq-button iq-btn-outline iq-btn-round" target="_blank">Login</a></li>
-                                <!--<li class="d-inline"><a href="signup2.php" class="signup iq-button default iq-btn-round" target="_blank">Sign Up</a></li>-->
+                                <li class="d-inline"><a href="http://user.voicetech.co.in/#/login" class="login iq-button iq-btn-outline iq-btn-round" target="_blank">Login</a></li>
+                                <li class="d-inline"><a href="signup2.php" class="signup iq-button default iq-btn-round" target="_blank">Sign Up</a></li>
                             </ul>
                         </div>
                     </nav>

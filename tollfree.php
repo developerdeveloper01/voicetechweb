@@ -5,7 +5,7 @@
       <!-- Required meta tags -->
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-      <title>Qloud - Cloud Computing, Apps & Server Responsive HTML5 Template</title>
+      <title>VoiceTech</title>
       <!-- Favicon -->
       <link rel="shortcut icon" href="images/favicon.ico" />
       <!-- Bootstrap CSS -->
@@ -65,7 +65,7 @@
                      <p class="iq-title-desc">Buy an 1800-xxx-xxxx toll free number for your business today. Make it simple for your customers to connect with you and give your business the credibility it deserves. </p>
                   </div>
                   <div class="iq-btn-container mt-4">
-                     <a class="iq-button iq-btn-medium iq-btn-round iq-btn-flat d-inline" href="https://voicetech.co.in/pricing.php"target="_self" rel="nofollow" data-type="button" data-rsp_ch="on" data-xy="xo:130px,92px,69px,42px;yo:582px,430px,290px,247px;" data-text="w:normal;s:18,12,20,16;l:18,12,24,16;" data-dim="h:50px,35px,50px,50px;minh:0px,none,none,none;" data-padding="t:15,11,15,15;r:30,21,30,25;b:15,11,15,15;l:30,21,30,25;" data-border="bor:10px,10px,10px,10px;" data-frame_0="x:-50,-35,-26,-16;" data-frame_1="st:1300;sp:1000;sR:1300;" data-frame_999="o:0;st:w;sR:6700;" data-frame_hover="bgc:#007aff;bor:10px,10px,10px,10px;sp:100;e:Power1.easeInOut;bri:120%;" style="z-index:11;background-color:#007bfc;text-transform:capitalize;">BUY TOLL FREE NUMBER</a>
+                     <a class="iq-button iq-btn-medium iq-btn-round iq-btn-flat d-inline" href="http://voicetech.co.in/pricing.php"target="_self" rel="nofollow" data-type="button" data-rsp_ch="on" data-xy="xo:130px,92px,69px,42px;yo:582px,430px,290px,247px;" data-text="w:normal;s:18,12,20,16;l:18,12,24,16;" data-dim="h:50px,35px,50px,50px;minh:0px,none,none,none;" data-padding="t:15,11,15,15;r:30,21,30,25;b:15,11,15,15;l:30,21,30,25;" data-border="bor:10px,10px,10px,10px;" data-frame_0="x:-50,-35,-26,-16;" data-frame_1="st:1300;sp:1000;sR:1300;" data-frame_999="o:0;st:w;sR:6700;" data-frame_hover="bgc:#007aff;bor:10px,10px,10px,10px;sp:100;e:Power1.easeInOut;bri:120%;" style="z-index:11;background-color:#007bfc;text-transform:capitalize;">BUY TOLL FREE NUMBER</a>
                   </div>
                </div>
                <div class="col-lg-6">
@@ -193,7 +193,7 @@
               </div>
               <div class="col-lg-6 col-sm-12 rside">
                  <div class="iq-btn-container mt-4">
-                     <a class="iq-button iq-btn-medium iq-btn-round iq-btn-flat d-inline" href="https://voicetech.co.in/inquiry.php"target="_self" rel="nofollow" data-type="button" data-rsp_ch="on" data-xy="xo:130px,92px,69px,42px;yo:582px,430px,290px,247px;" data-text="w:normal;s:18,12,20,16;l:18,12,24,16;" data-dim="h:50px,35px,50px,50px;minh:0px,none,none,none;" data-padding="t:15,11,15,15;r:30,21,30,25;b:15,11,15,15;l:30,21,30,25;" data-border="bor:10px,10px,10px,10px;" data-frame_0="x:-50,-35,-26,-16;" data-frame_1="st:1300;sp:1000;sR:1300;" data-frame_999="o:0;st:w;sR:6700;" data-frame_hover="bgc:#007aff;bor:10px,10px,10px,10px;sp:100;e:Power1.easeInOut;bri:120%;" style="z-index:11;background-color:#007bfc;text-transform:capitalize;">START TRIAL</a>
+                     <a class="iq-button iq-btn-medium iq-btn-round iq-btn-flat d-inline" href="http://voicetech.co.in/inquiry.php"target="_self" rel="nofollow" data-type="button" data-rsp_ch="on" data-xy="xo:130px,92px,69px,42px;yo:582px,430px,290px,247px;" data-text="w:normal;s:18,12,20,16;l:18,12,24,16;" data-dim="h:50px,35px,50px,50px;minh:0px,none,none,none;" data-padding="t:15,11,15,15;r:30,21,30,25;b:15,11,15,15;l:30,21,30,25;" data-border="bor:10px,10px,10px,10px;" data-frame_0="x:-50,-35,-26,-16;" data-frame_1="st:1300;sp:1000;sR:1300;" data-frame_999="o:0;st:w;sR:6700;" data-frame_hover="bgc:#007aff;bor:10px,10px,10px,10px;sp:100;e:Power1.easeInOut;bri:120%;" style="z-index:11;background-color:#007bfc;text-transform:capitalize;">START TRIAL</a>
                   </div>
               </div>
             </div>
@@ -780,7 +780,7 @@ Which scenario is better? Isn’t it the third one where a business greets you w
                      <h2>Free Trial</h2>
                      <h5>Sign up to upgrade your customer calling experience.</h5>
                      <div class="iq-btn-container mt-4">
-                     <a class="iq-button iq-btn-medium iq-btn-round iq-btn-flat d-inline" href="https://voicetech.co.in/inquiry.php">GET STARTED NOW</a>
+                     <a class="iq-button iq-btn-medium iq-btn-round iq-btn-flat d-inline" href="http://voicetech.co.in/inquiry.php">GET STARTED NOW</a>
                      </div>
                    </div>
                 </div>

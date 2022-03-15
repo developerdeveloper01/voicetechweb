@@ -252,7 +252,7 @@
                      <p class="iq-title-desc">Make it easy for your customers to find solutions to their queries right on their phone. Set up an IVR system for your business today. It only takes less than 3-minutes! </p>
                   </div>
                   <div class="iq-btn-container mt-4">
-                     <a class="iq-button iq-btn-medium iq-btn-round iq-btn-flat d-inline" href="https://voicetech.co.in/ivr-solution.php">GET Voice Tech IVR number</a>
+                     <a class="iq-button iq-btn-medium iq-btn-round iq-btn-flat d-inline" href="http://voicetech.co.in/ivr-solution.php">GET Voice Tech IVR number</a>
                   </div>
                </div>
                <div class="col-lg-6">
@@ -316,7 +316,7 @@
               </div>
               <div class="col-lg-6 col-sm-12 rside">
                  <div class="iq-btn-container mt-4">
-                     <a class="iq-button iq-btn-medium iq-btn-round iq-btn-flat d-inline" href="https://voicetech.co.in/inquiry.php">START TRIAL</a>
+                     <a class="iq-button iq-btn-medium iq-btn-round iq-btn-flat d-inline" href="http://voicetech.co.in/inquiry.php">START TRIAL</a>
                   </div>
               </div>
             </div>

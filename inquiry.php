@@ -380,7 +380,7 @@ $(document).ready(function() {
 
                 console.log("submitted")
 
-                var url = "http://103.8.43.13/api/api/user/addinquiry";
+                var url = "http://3.111.139.178/v1/api/user/addinquiry";
                 var topost = $.post(url, {
                     name: $("#name").val(),
                     product: $("#product").val(),

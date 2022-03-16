@@ -345,7 +345,7 @@
                     console.log("done submit");
                     console.log(data);
                     setTimeout(function() {
-                        window.location.href = "https://voicetech.co.in/angularapp";
+                        window.location.href = "http://user.voicetech.co.in/#/login";
                     }, 3000);
                 });
 
@@ -357,7 +357,7 @@
                     console.log("failed");
                     console.log(error.responseJSON.msg);
                     setTimeout(function() {
-                        window.location.href = "http://127.0.0.1:5500/signup2.html";
+                        window.location.href = "http://voicetech.co.in/";
                     }, 3000);
                 });
             });

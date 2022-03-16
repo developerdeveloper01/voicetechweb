@@ -301,7 +301,7 @@
                         </div>
 
                         <div class="row mb-4 px-3"> <small class="font-weight-bold">you have a account <a
-                                    href="login2.php" class="text-danger ">Login</a></small> </div>
+                                    href="http://user.voicetech.co.in/#/login" class="text-danger ">Login</a></small> </div>
                     </div>
                 </div>
             </div>
@@ -405,8 +405,5 @@
     });
     </script>
 </body>
-
-
-<!-- Mirrored from iqonic.design/themes/qloud-html/html/contact-us-2.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 16 Apr 2021 04:23:33 GMT -->
 
 </html>

@@ -389,7 +389,7 @@
                     console.log("done submit");
                     console.log(data);
                     setTimeout(function() {
-                        window.location.href = "http://user.voicetech.co.in/#/login";
+                        window.location.href = "http://voicetech.co.in/";
                     }, 3000);
                 });
 

@@ -118,7 +118,7 @@
                        <div class="st-box">
                         <img src="images/icon-box/i-7.png">
                         <h5><a href="">Live panel</a></h5>
-                        <p>Monitor all your business calls related activities in real-time on the MyOperator panel.</p>
+                        <p>Monitor all your business calls related activities in real-time on the Voicetech panel.</p>
                        </div>
                     </div>
                      <div class="col-lg-4 col-md-3 col-sm-6 col-xs-12">

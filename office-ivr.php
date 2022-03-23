@@ -386,7 +386,7 @@
 
                             <div class="iq-accordion-details">
 
-                                <p class="iq-content-text">Click to Call System is a setup inclusive of features required for better and efficient call management. All your business calls can be handled easily with MyOperator business IVR and its related features. </p>
+                                <p class="iq-content-text">Click to Call System is a setup inclusive of features required for better and efficient call management. All your business calls can be handled easily with Voicetech business IVR and its related features. </p>
 
                             </div>
                         </div>
@@ -417,7 +417,7 @@
 
                             <div class="iq-accordion-details">
 
-                                <p class="iq-content-text"> Click to Call System provided by MyOperator is designed using modern cloud telephony technology and provides state-of-the-art call center features that make it one of the best cloud Click to Call Systems. </p>
+                                <p class="iq-content-text"> Click to Call System provided by VoiceTech is designed using modern cloud telephony technology and provides state-of-the-art call center features that make it one of the best cloud Click to Call Systems. </p>
 
                             </div>
                         </div>
@@ -433,7 +433,7 @@
 
                             <div class="iq-accordion-details">
 
-                                <p class="iq-content-text"> You can get a Click to Call System from MyOperator. We assure you exclusive features along with 24*7 available customer support. </p>
+                                <p class="iq-content-text"> You can get a Click to Call System from VoiceTech. We assure you exclusive features along with 24*7 available customer support. </p>
 
                             </div>
                         </div>

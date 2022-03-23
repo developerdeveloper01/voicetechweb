@@ -48,7 +48,7 @@
                            <h2 class="title">
                         VIRTUAL EPBX</h2>
                            <ol class="breadcrumb main-bg">
-                              <li class="breadcrumb-item"><a href="javascript:void(0)"><i class="fa fa-home mr-2"></i>Global Number</a></li> <li class="breadcrumb-item active">India Tollfree Number </li>
+                              <li class="breadcrumb-item"><a href="javascript:void(0)"><i class="fa fa-home mr-2"></i>Feature</a></li> <li class="breadcrumb-item active">VIRTUAL EPBX </li>
                            </ol>
                         </nav>
                      </div>
@@ -161,7 +161,7 @@
                             <h4 class="iq-title">
                               All about VoiceTech Virtual Epbx</h4>
 
-                            <p class="iq-title-desc">Virtual Epbx comes along with a call management system that also consists of an IVR. With the help of a virtual number, you can map your multiple phone numbers at its backend which will ultimately reduce your call drop rates. India virtual number for your business helps you connect to your national customers with ease. With voicetech, you will not only get a virtual number but also features like  click to call , call tracking, call masking, will get included.</p>
+                            <p class="iq-title-desc">Virtual Epbx comes along with a call management system that also consists of an IVR. With the help of a virtual number, you can map your multiple phone numbers at its backend which will ultimately reduce your call drop rates. India virtual number for your business helps you connect to your national customers with ease. With VoiceTech, you will not only get a virtual number but also features like  click to call , call tracking, call masking, will get included.</p>
                         </div>
                     </div>
                   </div>
